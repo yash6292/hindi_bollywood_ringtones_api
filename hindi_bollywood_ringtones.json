@@ -84,7 +84,8 @@
       "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Javo-Le-Javo-Nid-Meri.mp3",
       "file": "Javo-Le-Javo-Nid-Meri.mp3",
       "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/lo-maan-liya.jpg"
-    },  {
+    },
+    {
       "id": "1",
       "ringtone_name": "Bulleya",
       "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg",
@@ -244,7 +245,8 @@
       "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/naach meri rani nach.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Naach Meri Rani - Guru Randhawa - Nora Fatehi ! Hindi.mp3",
       "file": "Naach Meri Rani - Guru Randhawa - Nora Fatehi ! Hindi.mp3"
-    },{
+    },
+    {
       "id": "1",
       "ringtone_name": "Manali Trance",
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/manali trance.jpeg",
@@ -586,6 +588,279 @@
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/chamma chamma.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Chamma Chamma ! Neha Kakkar Love Song.mp3",
       "file": "Chamma Chamma ! Neha Kakkar Love Song.mp3"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Apna Bana Le Piya",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Apna Bana Le Piya - Bhediya ! Hindi Song.mp3",
+      "file": "Apna Bana Le Piya - Bhediya ! Hindi Song.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Apna Bana Le Piya.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Baatein Ye Kabhi Na",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye Kabhi Na Tu Bhulna.mp3",
+      "file": "Baatein Ye Kabhi Na Tu Bhulna.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Baatein Ye Kabhi Na Tu Bhulna.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Bato Ko Teri Hum",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Bato Ko Teri Hum - Arjit Singh ! Love ! Hindi.mp3",
+      "file": "Bato Ko Teri Hum - Arjit Singh ! Love ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Bato Ko Teri Hum.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Bekhayali",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Bekhayali.mp3",
+      "file": "Bekhayali.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Bekhayali.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Channa Mereya Mereya",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Channa Mereya Mereya-Arijit Singh.mp3",
+      "file": "Channa Mereya Mereya-Arijit Singh.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Channa Mereya Mereya.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Ijazat",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Ek baat kahu kya ijazat hai.mp3",
+      "file": "Ek baat kahu kya ijazat hai.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Ek baat kahu kya ijazat hai.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Enna Sona",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Enna Sona.mp3",
+      "file": "Enna Sona.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Enna Sona.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Har Kisi Ko",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Har Kisi Ko - Arijit Singh ! Neeto Mohan ! Hindi Song.mp3",
+      "file": "Har Kisi Ko - Arijit Singh ! Neeto Mohan ! Hindi Song.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Har Kisi Ko.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Aaj Phir Tumpe",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Hate story 2 aaj phir tumpe instrumental.mp3",
+      "file": "Hate story 2 aaj phir tumpe instrumental.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Hate story 2 aaj phir tumpe.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Hawayein",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Hawaye.mp3",
+      "file": "Hawaye.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Hawaye.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Heeriye",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Heeriye - Arijit singh.mp3",
+      "file": "Heeriye - Arijit singh.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Heeriye.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Heeriye Heeriye Aa",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Heeriye heeriye aa - Heeriye ! Jasleen Royal ! Arijit Singh.mp3",
+      "file": "Heeriye heeriye aa - Heeriye ! Jasleen Royal ! Arijit Singh.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Heeriye heeriye aa.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Hum Nashe Mein Toh Nahin",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Hum nashe me - Hum Nashe Mein Toh Nahin ! Bhool Bhulaiyaa 2.mp3",
+      "file": "Hum nashe me - Hum Nashe Mein Toh Nahin ! Bhool Bhulaiyaa 2.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Hum Nashe Mein Toh Nahin.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tu Har Lamha",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Is Baat Ko Khud Se Tu Na Chupa.mp3",
+      "file": "Is Baat Ko Khud Se Tu Na Chupa.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Is Baat Ko Khud Se Tu Na Chupa.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Janam Janam Saath Chalna",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Janam Janam Janam Janam Saath Chalna ! Arijit Singh ! Romantic ! Hindi.mp3",
+      "file": "Janam Janam Janam Janam Saath Chalna ! Arijit Singh ! Romantic ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Janam Janam Janam Janam Saath Chalna.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Jhoome Jo Pathan",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Jhoome Jo Pathan - Pathaan - Arijit Singh ! Hindi Song.mp3",
+      "file": "Jhoome Jo Pathan - Pathaan - Arijit Singh ! Hindi Song.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Jhoome Jo Pathan.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Jo Tu Mera Humdard",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Jo Tu Mera Humdard ! Hindi Song Tone.mp3",
+      "file": "Jo Tu Mera Humdard ! Hindi Song Tone.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Jo Tu Mera Humdard.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Kabira",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Kabira song Arijit song ! love hindi song.mp3",
+      "file": "Kabira song Arijit song ! love hindi song.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Kabira.jpeg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Love Me Thoda",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Love Me Thoda ! Romantic Song.mp3",
+      "file": "Love Me Thoda ! Romantic Song.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Love Me Thoda.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Man Mast Magan",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Man mast magan.mp3",
+      "file": "Man mast magan.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Man mast magan.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Mareez E Ishq",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Mareez E Ishq Hu Main - Arijit Singh ! Hindi Song.mp3",
+      "file": "Mareez E Ishq Hu Main - Arijit Singh ! Hindi Song.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Mareez E Ishq Hu Main.JPG"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Mere Yaara",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Mere Yaara - Hindi.mp3",
+      "file": "Mere Yaara - Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Mere Yaara.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Dil Ke Pass",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Pal Pal Dil Ke Pass - Arijit Singh ! Hindi.mp3",
+      "file": "Pal Pal Dil Ke Pass - Arijit Singh ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Pal Pal Dil Ke Pass.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Pasoori Nu",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Pasoori Nu - Arijit Singh ! Sad ! Hindi.mp3",
+      "file": "Pasoori Nu - Arijit Singh ! Sad ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Pasoori Nu.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Phir Or Kya Chahiye",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Phir Or Kya Chahiye - Arijit Singh ! Love ! Sad ! Hindi.mp3",
+      "file": "Phir Or Kya Chahiye - Arijit Singh ! Love ! Sad ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Phir Or Kya Chahiye.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Le Aaunga",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Phir Se Tujhe Manake - Le Aaunga - Satyaprem Ki Katha ! Hindi.mp3",
+      "file": "Phir Se Tujhe Manake - Le Aaunga - Satyaprem Ki Katha ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Phir Se Tujhe Manake.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Saanson Ko",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Saanson Ko Jine Ka Sahara Mil Gaya - Arijit Singh ! Hindi ! Sad.mp3",
+      "file": "Saanson Ko Jine Ka Sahara Mil Gaya - Arijit Singh ! Hindi ! Sad.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Saanson Ko Jine Ka Sahara Mil Gaya.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Samjhawan",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Samjhawan.mp3",
+      "file": "Samjhawan.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Samjhawan.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Shayad Kabhi",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi ! Love Aaj Kal ! Hindi.mp3",
+      "file": "Shayad Kabhi ! Love Aaj Kal ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Shayad Kabhi.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tera Yaar Hu Main",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tera Yaar Hu Main.mp3",
+      "file": "Tera Yaar Hu Main.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tera Yaar Hu Main.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Ae Dil Hai Mushkil",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tere Bina Gujara Ae Dil He Mushkil - Ae Dil Hai Mushkil ! Hindi.mp3",
+      "file": "Tere Bina Gujara Ae Dil He Mushkil - Ae Dil Hai Mushkil ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tere Bina Gujara Ae Dil He Mushkil.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tere Hoke Rahenge",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tere Hoke Rahenge.mp3",
+      "file": "Tere Hoke Rahenge.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tere Hoke Rahenge.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Ae Dil Hai Mushkil",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tere Bina Gujara Ae Dil He Mushkil - Ae Dil Hai Mushkil ! Hindi.mp3",
+      "file": "Tere Bina Gujara Ae Dil He Mushkil - Ae Dil Hai Mushkil ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tere Bina Gujara Ae Dil He Mushkil.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tere Pyaar Mein",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tere Pyaar Mein Tere Pyaar Mein - Tere Pyaar Mein - Arijit Singh ! Hindi.mp3",
+      "file": "Tere Pyaar Mein Tere Pyaar Mein - Tere Pyaar Mein - Arijit Singh ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tere Pyaar Mein Tere Pyaar Mein.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Thodi Jagah",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.mp3",
+      "file": "Thodi Jagah.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Thodi Jagah.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tu Chale",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tu Chale.mp3",
+      "file": "Tu Chale.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tu Chale.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tu Hi Aashiqi Tu Hi Aawargi",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tu Hi Aashiqi Tu Hi Aawargi - Arijit Singh ! Hindi.mp3",
+      "file": "Tu Hi Aashiqi Tu Hi Aawargi - Arijit Singh ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tu Hi Aashiqi Tu Hi Aawargi.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tum Kya Mile",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tum Kya Mile Tum Kya Mile - Tum Kya Mile - Rocky Aur Rani Kii Prem Kahaani ! Hindi.mp3",
+      "file": "Tum Kya Mile Tum Kya Mile - Tum Kya Mile - Rocky Aur Rani Kii Prem Kahaani ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tum Kya Mile Tum Kya Mile.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tumhe Kitna Pyar Karte",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyar Karte - Bawaal ! Hindi.mp3",
+      "file": "Tumhe Kitna Pyar Karte - Bawaal ! Hindi.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyar Karte - Bawaal ! Hindi.jpg"
     }
   ]
 }
