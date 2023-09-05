@@ -12,7 +12,7 @@
     "isNotAdd": true,
     "getStarted": false,
     "ringtoneListMain": true,
-    "ringtoneListBack": true,
+    "ringtoneListBack": false,
     "setViewMain": false,
     "setViewBack": false,
     "ringtonePlayerBack": true,
